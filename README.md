@@ -100,6 +100,6 @@ Now open your browser at [http://localhost:3000](http://localhost:3000)
 ## 🙌 Made With
 
 * ❤️ Passion for helping developers shine
-* 👩‍💻 Built by [Bhuvaneswari N](https://github.com/Bhuvananagarajan)
+* 👩‍💻 Built by [Navin E](https://github.com/Bhuvananagarajan)
 * 🌟 Powered by React + Markdown + GitHub Pages
 
